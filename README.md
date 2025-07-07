@@ -1,4 +1,6 @@
-# 👻 Ghostkey
+<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/0d8e7ae1-95db-4c51-b78d-457c009a5cbe" />****
+
+# Ghostkey
 
 **Ghostkey** is a compact, open-source plug-and-play USB device inspired by Rubber Ducky and Flipper Zero.  
 It delivers preconfigured or custom keyboard injection payloads to Windows, macOS, and Linux — powered by a pixel-art mascot and a stealthy UI.
