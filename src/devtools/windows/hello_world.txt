@@ -1,0 +1,4 @@
+REM Hello world for Windows
+DELAY 500
+STRING Hello from Cardputer
+ENTER
